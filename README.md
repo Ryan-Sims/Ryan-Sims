@@ -8,7 +8,7 @@ I also enjoying using C++ & MATLAB occasionally, plus R & SQL if I'm getting in 
 
 
 
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: top;">
   <a href="https://www.linkedin.com/in/ryan-sims23/">
     <img src="Images/LinkedIn.svg" alt="LinkedIn" style="width:30px;height:30px;">
   </a>
