@@ -4,7 +4,7 @@
 
 
 I'm a software engineer specialising in Python & LabVIEW.
-I also enjoying using C++ & MATLAB occasionally, plus R & SQL if I'm getting in a data-heavy project! 
+I also enjoying using C++ & MATLAB occasionally, plus R & SQL if I'm getting into a data-heavy project! 
 
 
 
